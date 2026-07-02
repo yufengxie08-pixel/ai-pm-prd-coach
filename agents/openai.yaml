@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI PM PRD Coach"
+  short_description: "Turn rough AI ideas into practical PRDs"
+  default_prompt: "Use $ai-pm-prd-coach to turn my rough AI product idea into a Chinese PRD with MVP scope, user stories, and acceptance criteria."
